@@ -3,6 +3,7 @@ The Sparks Foundation Donation Website Comprising of Payment Gateway Integration
 * I have added payment gateway using Razorpay.
 # To run the code
 * Clone the repository/download the zip files.
-Make the following changes
+* Make the following changes
 Donate>index.html>replace the razorpay Payment button key with your own key.
 # Website Link:
+*https://7ashishkr74.github.io/Payment-Gateway-Integration/
